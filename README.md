@@ -1,3 +1,5 @@
 # Lab 7 - Starter
 
-Names: Jeffrey Liu
+Name: Jeffrey Liu
+
+Link: https://jeffreyl02.github.io/Lab7_Starter/
